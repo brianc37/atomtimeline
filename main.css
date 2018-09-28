@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 /* Set a background color */
 body {
   background-color: #474e5d;
