@@ -4,7 +4,7 @@
 
 /* Set a background color */
 body {
-  background-color: #474e5d;
+  background-color: black;
   font-family: Helvetica, sans-serif;
 }
 
@@ -132,3 +132,9 @@ body {
     left: 0%;
   }
 }
+
+a { text-decoration: none; color:white; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
