@@ -139,7 +139,7 @@ a:hover { text-decoration: none; }
 a:focus { text-decoration: none; }
 a:hover, a:active { text-decoration: none; }
 
-.content:hover {
+.thumbnail:hover {
     position:relative;
     top:-25px;
     left:-35px;
