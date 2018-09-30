@@ -3,9 +3,14 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-pre.main {
-    text-align: left;
-}
+.container {
+   text-align: center;
+ }
+
+.container pre {
+  display: inline-block;
+  text-align: left;
+ }
 
 a { text-decoration: none; color:white; }
 a:visited { text-decoration: none; }
